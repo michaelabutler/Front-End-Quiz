@@ -1,0 +1,33 @@
+.content {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.measurements strong {
+    display: block;
+    margin: 30px auto 0 auto;
+}
+
+.measurements span {
+    display: inline-block;
+    padding-top: 5px;
+    vertical-align: middle;
+}
+
+.condition {
+    display: block;
+    margin: 20px auto 0 auto;
+}
+
+.item-measurements {
+    margin: 20px 0 10px 0;
+    max-width: 400px;
+}
+
+.item-measurements > div{
+    margin-right: 30px;
+}
+
+button {
+    margin-top: 20px;
+}
